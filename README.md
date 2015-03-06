@@ -1,4 +1,4 @@
-# reconcile-ractive-mvp
+# Ractive MVP hello world
 
 POC regarding ractive and MVP.
 
