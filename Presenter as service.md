@@ -1,3 +1,7 @@
+Here the presenter is a service provided by IOC.  It constructs the view and binds the events.
+
+Main weakness is the presenter cannot be used by a bunch of different views.
+
 	var baseViewDef = {
 	  el: '#output',
 	  template: '#template',
